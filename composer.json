@@ -1,5 +1,5 @@
 {
-  "name": "betterapp/laravel-db-encrypter",
+  "name": "mgpl2311/laravel-db-encrypter",
   "description": "Provides database model attribute encryption/decryption",
   "keywords": [
     "attribute",
@@ -38,8 +38,8 @@
     }
   ],
   "require": {
-    "php": ">=8.0",
-    "laravel/framework": "^9.0"
+    "php": ">=8.1",
+    "laravel/framework": "^10.0"
   },
   "minimum-stability": "stable"
 }
